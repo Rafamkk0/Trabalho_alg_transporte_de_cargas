@@ -1,0 +1,13 @@
+Classes:
+Cliente Gustavo
+Motorista Rafael
+Produto Gabi
+Viagem Rafael
+
+Controlador Genérico Gustavo
+Controlado de Viagem Gabi
+
+Interface Principal Rafael
+Menu de produto Gustavo
+Menu de viagem Gabi
+Iniciar e Finalizar Viagem Gabi
